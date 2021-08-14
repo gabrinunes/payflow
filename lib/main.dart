@@ -12,7 +12,7 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pay Flow',
+      title: 'Pay Floww',
       theme: ThemeData(primaryColor: AppColors.primary),
       home: LoginPage(),
     );
